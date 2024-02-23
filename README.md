@@ -14,12 +14,13 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=yelos-eipin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelos-eipin&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<!--
 #### Top Repositories
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yelos-eipin&repo=github-readme-stats&theme=buefy" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yelos-eipin&repo=anuraghazra.github.io&theme=buefy" />
-
+-->
 
 <br />
 <br />
